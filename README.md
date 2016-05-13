@@ -3,8 +3,7 @@
 AWS References  
 * https://aws.amazon.com  
 * https://aws.amazon.com/service-terms/
-
-
+* https://aws.amazon.com/cli/
 
 
 AWS Documentation Resources
@@ -13,6 +12,10 @@ AWS Documentation Resources
 * https://aws.amazon.com/getting-started/
 * https://aws.amazon.com/training/self-paced-labs/
 * https://www.youtube.com/user/awstutorialseries/videos  
+
+
+AWS Lambda
+* https://aws.amazon.com/lambda/
 
 
 Other AWS Learning Resources
