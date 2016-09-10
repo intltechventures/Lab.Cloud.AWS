@@ -26,3 +26,5 @@ AWS Community
 * http://www.meetup.com/Seattle-AWS-Architects-Engineers/ 
 
 
+Interesting Github Projects
+* https://github.com/rmenn/kubernetes-the-hard-way-aws
