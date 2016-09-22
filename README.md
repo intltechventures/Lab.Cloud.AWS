@@ -14,6 +14,11 @@ AWS Documentation Resources
 * https://www.youtube.com/user/awstutorialseries/videos  
 
 
+AWS EMR
+* https://aws.amazon.com/emr/
+  * https://aws.amazon.com/blogs/aws/new-at-rest-and-in-transit-encryption-for-amazon-emr/
+
+
 AWS Lambda
 * https://aws.amazon.com/lambda/
 
