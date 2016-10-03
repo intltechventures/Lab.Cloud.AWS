@@ -4,6 +4,7 @@ AWS References
 * https://aws.amazon.com  
 * https://aws.amazon.com/service-terms/
 * https://aws.amazon.com/cli/
+* https://aws.amazon.com/free/
 
 
 AWS Documentation Resources
