@@ -8,3 +8,6 @@ Some collected notes/tips re: AWS
 * "you can implement a post-install script to set the hostname locally and register it with route53"
 
 * http://docs.aws.amazon.com/cli/latest/reference/opsworks/create-instance.html
+* http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html
+
+
