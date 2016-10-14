@@ -34,3 +34,4 @@ AWS Community
 
 Interesting Github Projects
 * https://github.com/rmenn/kubernetes-the-hard-way-aws
+* https://github.com/open-guides/og-aws
