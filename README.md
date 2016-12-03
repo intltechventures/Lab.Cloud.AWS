@@ -22,6 +22,7 @@ AWS EMR
 
 AWS Lambda
 * https://aws.amazon.com/lambda/
+* http://gosparta.io/
 
 
 Other AWS Learning Resources
