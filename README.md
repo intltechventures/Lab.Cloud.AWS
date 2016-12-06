@@ -25,6 +25,31 @@ AWS Lambda
 * http://gosparta.io/
 
 
+AWS AMI Resources
+* http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+* http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/paid-amis.html
+* https://aws.amazon.com/marketplace/management/tour/
+
+
+AWS Virtual Private Cloud Resources
+* https://aws.amazon.com/vpc/
+
+
+Architecture Design Resources
+* https://aws.amazon.com/architecture/icons/
+
+
+AWS Eclipse Resources
+* https://aws.amazon.com/eclipse/
+
+
+AWS CLI Resources
+* https://aws.amazon.com/cli/
+* http://docs.aws.amazon.com/cli/latest/reference/
+* http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
+* https://github.com/aws/aws-sdk-go/wiki
+
+
 Other AWS Learning Resources
 * http://meta-guide.com/videography/100-best-amazon-aws-tutorial-videos
 
@@ -35,4 +60,9 @@ AWS Community
 
 Interesting Github Projects
 * https://github.com/rmenn/kubernetes-the-hard-way-aws
-* https://github.com/open-guides/og-aws
+* https://github.com/open-guides/og-awsa
+
+
+Interesting AWS Related Articles
+* http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.LowLevel.Walkthrough.CompleteProgram.html
+* http://blog.rackspace.com/part-1-building-server-less-architecture-aws/
