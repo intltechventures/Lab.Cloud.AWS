@@ -54,6 +54,18 @@ Other AWS Learning Resources
 * http://meta-guide.com/videography/100-best-amazon-aws-tutorial-videos
 
 
+AWS Certifications
+* https://aws.amazon.com/certification/certified-solutions-architect-associate/
+* https://aws.amazon.com/certification/certified-solutions-architect-professional/
+* https://aws.amazon.com/certification/certified-developer-associate/
+* https://aws.amazon.com/certification/certified-devops-engineer-professional/
+* https://aws.amazon.com/certification/certified-advanced-networking-specialty/
+* https://aws.amazon.com/certification/certified-security-specialty/
+* https://aws.amazon.com/certification/certified-big-data-specialty/
+* https://aws.amazon.com/certification/certification-prep/
+* https://aws.amazon.com/certification/certified-sysops-admin-associate/
+* 
+
 AWS Community
 * http://www.meetup.com/Seattle-AWS-Architects-Engineers/ 
 
