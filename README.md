@@ -25,6 +25,10 @@ AWS Lambda
 * http://gosparta.io/
 
 
+AWS Elasticbeanstalk
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html
+
+
 AWS AMI Resources
 * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
 * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/paid-amis.html
@@ -64,7 +68,7 @@ AWS Certifications
 * https://aws.amazon.com/certification/certified-big-data-specialty/
 * https://aws.amazon.com/certification/certification-prep/
 * https://aws.amazon.com/certification/certified-sysops-admin-associate/
-* 
+ 
 
 AWS Community
 * http://www.meetup.com/Seattle-AWS-Architects-Engineers/ 
@@ -72,7 +76,7 @@ AWS Community
 
 Interesting Github Projects
 * https://github.com/rmenn/kubernetes-the-hard-way-aws
-* https://github.com/open-guides/og-awsa
+* https://github.com/open-guides/og-aws
 
 
 Interesting AWS Related Articles
