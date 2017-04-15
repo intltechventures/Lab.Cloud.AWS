@@ -82,3 +82,6 @@ Interesting Github Projects
 Interesting AWS Related Articles
 * http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.LowLevel.Walkthrough.CompleteProgram.html
 * http://blog.rackspace.com/part-1-building-server-less-architecture-aws/
+* 2017
+  * https://aws.amazon.com/blogs/aws/amazon-aurora-update-more-cross-region-cross-account-support-t2-small-db-instances-another-region/
+
