@@ -1,6 +1,8 @@
 
 AWS Educational Resources
+* https://aws.amazon.com/documentation/
 * https://aws.amazon.com/whitepapers/
+* https://aws.amazon.com/quickstart/
 
 
 Udemy.com
@@ -12,6 +14,7 @@ AWS Well-Architected Framework:
 
 
 AWS Certification Training
+* https://aws.amazon.com/certification/
 * 241 hours of hands-on labs and courses
   * https://linuxacademy.com/amazon-web-services/courses
 
