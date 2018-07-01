@@ -1,4 +1,4 @@
-AWS Simple Workflow (SWF) Resources
+AWS Simple Workflow Services (SWF) Resources
 
 
 
