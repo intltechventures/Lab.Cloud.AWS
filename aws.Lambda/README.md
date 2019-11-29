@@ -1,13 +1,13 @@
-AWS Lambda Resources
-====
+# AWS Lambda Resources
 
-### References
-* AWS Lambda Limits
-  *  https://docs.aws.amazon.com/lambda/latest/dg/limits.html
+## References
+- https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+- AWS Lambda Limits
+  +  https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 
 
-### Background Reading
+## Background Reading
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 * https://rclayton.silvrback.com/serverless-isn-t-effortless
 * [How Much Does It Cost To Run A Serverless API on AWS?](https://alestic.com/2016/12/aws-invoice-example/)
@@ -23,7 +23,7 @@ AWS Lambda Resources
 * https://blog.binaris.com/my-wish-list-for-aws-lambda-in-2018/
 
 
-### Case Studies
+## Case Studies
 * https://aws.amazon.com/lambda/resources/customer-case-studies/
 * [15 Case studies of AWS serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/)
 * [From $10K/month to $370/month](https://postlight.com/trackchanges/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of)
@@ -50,20 +50,25 @@ AWS Lambda Resources
 
 
 
-### Suggested Books
+## Suggested Books
 * https://www.amazon.com/AWS-Lambda-Guide-Serverless-Microservices-ebook/dp/B016JOMAEE/
 
 
 
 
-### Articles
-* 2018 
-  * https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-now-supports-custom-runtimes-and-layers/
+## Articles
+### 2020
+
+### 2019 
+
+
+### 2018
+- https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-now-supports-custom-runtimes-and-layers/
 
 
 
 
-### Serverless Conferences
+## Serverless Conferences
 * https://twitter.com/serverlessconf?lang=en
 * 2017
   * https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6
@@ -75,10 +80,10 @@ AWS Lambda Resources
   * https://www.slideshare.net/YochayKiriaty/anti-patterns-and-mistakes-using-serverless-serverlessconf-sf-08-2018
 
 
-### Other Slideshare decks:
+## Other Slideshare decks:
 * https://www.slideshare.net/marcyterui/reliability-engineering-for-enterprise-serverless
 
 
-### Github Awesome Serverless Lists
+## Github Awesome Serverless Lists
 * https://github.com/pmuens/awesome-serverless
 
