@@ -1,10 +1,10 @@
 # AWS Lambda Resources
 
 ## References
+- https://docs.aws.amazon.com/lambda/index.html
 - https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 - AWS Lambda Limits
   +  https://docs.aws.amazon.com/lambda/latest/dg/limits.html
-
 
 
 ## Background Reading
