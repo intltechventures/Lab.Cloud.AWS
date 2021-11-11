@@ -135,6 +135,12 @@
   + https://www.slideshare.net/YochayKiriaty/anti-patterns-and-mistakes-using-serverless-serverlessconf-sf-08-2018
 
 
+
+## Serverless-related Podcasts
+- https://www.serverlesschats.com/
+  + https://twitter.com/ServerlessChats
+
+
 ## Other Slideshare decks:
 - https://www.slideshare.net/marcyterui/reliability-engineering-for-enterprise-serverless
 
