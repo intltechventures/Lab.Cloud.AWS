@@ -8,6 +8,10 @@
 
 - https://us-east-1.console.aws.amazon.com/console/home
 
+
+- https://downdetector.com/status/aws-amazon-web-services/
+
+
 ## 2021
 
 - 2021-12-07: AWS us-east-1 outage brings down services around the world
