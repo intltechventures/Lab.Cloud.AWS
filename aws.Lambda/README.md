@@ -12,9 +12,55 @@
   +  https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 
+## Experts (in alphabetical order, by LinkedIn profile name)
+
+- https://www.linkedin.com/in/aaron-stuyvenberg/
+
+- https://www.linkedin.com/in/alex-debrie/
+
+- https://www.linkedin.com/in/allenheltondev/
+  + https://www.readysetcloud.io/
+
+- https://www.linkedin.com/in/arpadt/
+
+- https://www.linkedin.com/in/benjamenpyle/
+
+- https://www.linkedin.com/in/david-boyne/
+
+- https://www.linkedin.com/in/donkersgoed/
+
+- https://www.linkedin.com/in/hamilton-sarah/
+
+- https://www.linkedin.com/in/jeremydaly/
+
+- https://www.linkedin.com/in/lee-james-gilmore/
+
+- https://www.linkedin.com/in/martzcodes/
+
+- https://www.linkedin.com/in/pchol22/
+
+- https://www.linkedin.com/in/pubudusj/
+
+- https://www.linkedin.com/in/ranisenberg/
+
+- https://www.linkedin.com/in/rosius/
+  + https://phatrabbitapps.com/ 
+
+- https://www.linkedin.com/in/sam-complete-coding/
+
+- https://www.linkedin.com/in/sheen-brisals/
+
+- https://www.linkedin.com/in/theburningmonk/
+
+- https://www.linkedin.com/in/walmsles/
+
+
+
 ## News resources
 
 - https://serverlessland.com/
+- https://serverlessdna.com/
+- https://www.educloud.academy/
 
 
 ## Background Reading
