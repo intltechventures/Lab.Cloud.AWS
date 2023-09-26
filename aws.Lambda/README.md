@@ -12,6 +12,11 @@
   +  https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 
+## News resources
+
+- https://serverlessland.com/
+
+
 ## Background Reading
 - https://www.cloudzero.com/blog/aws-lambda
 
