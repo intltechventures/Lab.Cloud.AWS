@@ -61,6 +61,8 @@
 - https://serverlessland.com/
 - https://serverlessdna.com/
 - https://www.educloud.academy/
+- https://blog.theserverlessterminal.com/
+  + https://www.theserverlessterminal.com/
 
 
 ## Background Reading
